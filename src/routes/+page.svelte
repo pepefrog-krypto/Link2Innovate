@@ -25,7 +25,7 @@
  
   
   body {
-        background-image: url('link2innovate.png');
+        background-image: url('/link2innovate.png');
         background-repeat: no-repeat;
         background-size: cover;
         height :100vh;
