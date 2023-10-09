@@ -1,6 +1,6 @@
 <style>
     body {
-         background-image: url('link2innovate(3).png');
+         background-image: url('/link2innovate(3).png');
          background-repeat: no-repeat;
          background-size: cover;
          height :100vh;
