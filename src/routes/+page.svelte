@@ -125,21 +125,21 @@ opacity: 0;
 
 <body>
  
-    <div class="boton1"><li><a href="/santiago">publishprojectttttttttttttttttt</a></li></div>
+    <div class="boton1"><li><a href="/pproject">publishprojectttttttttttttttttt</a></li></div>
   
     <div class="boton2"><li><a href="/targets">tagsssss</a></li></div>
 
-    <div class="boton3"><li><a href="/santiago">meetpeopleeeeeeee</a></li></div>
+    <div class="boton3"><li><a href="/people">meetpeopleeeeeeee</a></li></div>
 
-    <div class="boton4"><li><a href="/santiago">exploreeeeeeee</a></li></div>
+    <div class="boton4"><li><a href="/ntavbl">exploreeeeeeee</a></li></div>
 
-    <div class="boton5"><li><a href="/santiago">learnnnnnn</a></li></div>
+    <div class="boton5"><li><a href="/ntavbl">learnnnnnn</a></li></div>
 
     <div class="boton6"><li><a href="/project1">learnmoreeeeeeee</a></li></div>
 
-    <div class="boton7"><li><a href="/santiago">learnmoreeeeeeee</a></li></div>
+    <div class="boton7"><li><a href="/project2">learnmoreeeeeeee</a></li></div>
 
-    <div class="boton8"><li><a href="/santiago">learnmoreeeeeeee</a></li></div>
+    <div class="boton8"><li><a href="/project3">learnmoreeeeeeee</a></li></div>
   
 
   
